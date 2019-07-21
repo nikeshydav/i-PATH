@@ -1,0 +1,8 @@
+D:/python/facematch/unknown/1.jpg,abhishek_dangwal
+D:/python/facematch/unknown/1.jpg,nikesh_yadav
+D:/python/facematch/unknown/1.jpg,raman_kumar
+D:/python/facematch/unknown/1.jpg,unknown_person
+D:/python/facematch/unknown/1.jpg,abhishek_dangwal
+D:/python/facematch/unknown/1.jpg,nikesh_yadav
+D:/python/facematch/unknown/1.jpg,raman_kumar
+D:/python/facematch/unknown/1.jpg,unknown_person

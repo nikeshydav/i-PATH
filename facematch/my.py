@@ -1,0 +1,2 @@
+data = "UI"
+print(data)

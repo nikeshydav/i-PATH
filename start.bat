@@ -1,0 +1,1 @@
+start "" /min "C:\Users\nikesh.yadav\AppData\Local\UiPath\app-19.7.0\UiRobot.exe" /file:"D:\RPAProject\iPath\Main.xaml"
